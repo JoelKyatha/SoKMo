@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SoKMo.jnlp">
+  <information>
+    <title>SoKMo</title>
+    <vendor>varun</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SoKMo.jar" size="77499" download="eager" />
+    <jar href="lib/RemoteControlPC-Libraries.jar" size="1658" download="eager" />
+    <jar href="lib/SoKMo-Libraries.jar" size="1658" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="SoKMo" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="SoKMo.SoKMo"  name="SoKMo" />
+  <update check="always"/>
+</jnlp>

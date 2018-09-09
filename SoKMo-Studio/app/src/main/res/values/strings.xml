@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SoKMo</string>
+    <string name="connect">SoKMo</string>
+    <string name="touchpad">Touchpad</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="file_transfer">File Transfer</string>
+    <string name="file_download">File Download</string>
+    <string name="media_player">Media Player</string>
+    <string name="image_viewer">Image Viewer</string>
+    <string name="presentation">Presentation</string>
+    <string name="power_off">Power Options</string>
+    <string name="help">SoKMo</string>
+    <string name="live_screen">Live Screen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_help">Help</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_touch_pad">TouchPad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_music_control">MusicControl</string>
+
+    <!--<string name="navigation_drawer_open">Open navigation drawer</string>-->
+    <!--<string name="navigation_drawer_close">Close navigation drawer</string>-->
+    <!--<string name="action_help">Help</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="title_activity_touch_pad">TouchPad</string>-->
+    <!--<string name="hello_world">Hello world!</string>-->
+    <!--<string name="title_activity_help">HelpActivity</string>-->
+    <!--<string name="title_activity_music_control">MusicControl</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="help_url">https://github.com/varunon9/Remote-Control-PC</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
